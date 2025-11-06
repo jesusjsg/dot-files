@@ -5,3 +5,4 @@ These are my personal dotfiles for Arch Linux. This repository contains configur
 -   kitty
 -   nvim
 -   zsh
+-   hyprland
